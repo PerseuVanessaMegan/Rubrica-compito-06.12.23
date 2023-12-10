@@ -1,0 +1,66 @@
+{"rubrica": {
+      "title": "Sig.ra",
+      "first_name": "Vanessa",
+      "middle_name": "Megan",
+      "last_name": "Perseu",
+      "mobile_phone": "3332222220",
+      "email_address": "Vanessamegan.Perseu@studente.com",
+      "birth_date": "09.12.92",
+      "city": "Cagliari",
+      "nationality": "Italiana",
+      "age": 31,
+      "job": "Data Analyst"
+    }
+    {
+      "title": "Sig.ra",
+      "first_name": "Miriam",
+      "middle_name": "",
+      "last_name": "Passaro",
+      "mobile_phone": "3332222220",
+      "email_address": "Miriam.Passaro@stdente.com",
+      "birth_date": "03.06.94",
+      "city": "Torino",
+      "nationality": "Italiana",
+      "age": 29,
+      "job": "Data Analyst"
+    }
+    {
+      "title": "Sig.ra",
+      "first_name": "Pamela",
+      "middle_name": "",
+      "last_name": "Venuti",
+      "mobile_phone": "3332222220",
+      "email_address": "Pamela.Venuti@studente.com",
+      "birth_date": "19.07.92",
+      "city": "Milano",
+      "nationality": "Italiana",
+      "age": 31,
+      "job": "Data Analyst"
+    }
+    {
+      "title": "Sig.ra",
+      "first_name": "Deborah",
+      "middle_name": "",
+      "last_name": "Manis",
+      "mobile_phone": "3332222220",
+      "email_address": "Deborah.Manis@studente.com",
+      "birth_date": "01.01.88",
+      "city": "Bologna",
+      "nationality": "Italiana",
+      "age": 35,
+      "job": "Data Analyst"
+    }
+    {
+      "title": "Sig",
+      "first_name": "Marco",
+      "middle_name": "",
+      "last_name": "Tripodi",
+      "mobile_phone": "3332222220",
+      "email_address": "Marco.Tripodi@studente.com",
+      "birth_date": "09.07.01",
+      "city": "Firenze",
+      "nationality": "Italiana",
+      "age": 22,
+      "job": "Data Analyst"
+    }
+  }
